@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.dev.cristopher.tdd.service.BonusServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-23T01:01:18" hostname="CEDUARDOC" time="0.016">
+  <properties/>
+  <testcase name="bonusDeveriaDezPorcentoDoSalario()" classname="br.dev.cristopher.tdd.service.BonusServiceTest" time="0.014"/>
+  <testcase name="bonusDeveriaSerZeroParaFuncionarioComSalarioMuitoAlto()" classname="br.dev.cristopher.tdd.service.BonusServiceTest" time="0.0"/>
+  <testcase name="bonusDeveriaSerDezPorcentoParaSalarioExatamenteDezMilReais()" classname="br.dev.cristopher.tdd.service.BonusServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
